@@ -1,0 +1,13 @@
+git
+libgthread-2_0-0
+cairo-devel
+pkg-config
+gcc
+gobject-introspection-devel
+python3-devel
+fish
+vim
+jq
+dirmngr
+pinentry-gnome3
+
