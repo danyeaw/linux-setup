@@ -2,7 +2,6 @@ git
 libgthread-2_0-0
 cairo-devel
 pkg-config
-gcc
 gobject-introspection-devel
 python3-devel
 fish
@@ -10,4 +9,15 @@ vim
 jq
 dirmngr
 pinentry-gnome3
-
+gcc
+automake
+bzip2
+libbz2-devel
+xz xz-devel
+openssl-devel
+ncurses-devel
+readline-devel
+zlib-devel
+tk-devel
+libffi-devel
+sqlite3-devel make
