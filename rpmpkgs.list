@@ -22,3 +22,4 @@ zlib-devel
 tk-devel
 libffi-devel
 sqlite3-devel make
+po4a
