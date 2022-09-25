@@ -1,7 +1,6 @@
 git
 libgthread-2_0-0
 cairo-devel
-gtksourceview5-dev
 pkg-config
 gobject-introspection-devel
 python3-devel
@@ -23,3 +22,7 @@ tk-devel
 libffi-devel
 sqlite3-devel make
 po4a
+sqlitebrowser
+gh
+xclip
+firefox

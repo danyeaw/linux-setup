@@ -1,10 +1,10 @@
 org.freedesktop.Sdk/x86_64/21.08
 org.freedesktop.Sdk.Extension.python
 com.visualstudio.code
-org.gnome.Geary
 org.gaphor.Gaphor
 org.gnome.Evince
 org.gnome.TextEditor
+org.gnome.Evolution
 org.libreoffice.LibreOffice
 org.remmina.Remmina
 nz.mega.MEGAsync
