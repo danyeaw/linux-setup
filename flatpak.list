@@ -2,6 +2,7 @@ org.freedesktop.Sdk/x86_64/21.08
 org.freedesktop.Sdk.Extension.python
 com.visualstudio.code
 org.gaphor.Gaphor
+org.gnome.Chess
 org.gnome.Evince
 org.gnome.TextEditor
 org.gnome.Evolution
@@ -9,3 +10,4 @@ org.gnome.eog
 org.libreoffice.LibreOffice
 org.remmina.Remmina
 nz.mega.MEGAsync
+org.gimp.GIMP
