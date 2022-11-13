@@ -4,8 +4,12 @@ cairo-devel
 pkg-config
 gobject-introspection-devel
 python3-devel
+gtksourceview4
+gtksourceview5
+typelib-1_0-GtkSource-4
 fish
 vim
+gvim
 jq
 dirmngr
 pinentry-gnome3
@@ -26,3 +30,10 @@ sqlitebrowser
 gh
 xclip
 firefox
+flatpak-builder
+fuse
+graphviz
+ffmpeg
+docker
+docker-compose
+docker-compose-switch
