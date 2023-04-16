@@ -14,3 +14,5 @@ org.gimp.GIMP
 org.gnome.Totem
 org.mozilla.Thunderbird
 org.zoom.Zoom
+org.gnome.design.AppIconPreview
+org.gnome.design.SymbolicPreview

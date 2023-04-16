@@ -3,6 +3,7 @@ libgthread-2_0-0
 cairo-devel
 pkg-config
 gobject-introspection-devel
+libadwaita-devel
 python3-devel
 gtksourceview4
 gtksourceview5
@@ -14,17 +15,24 @@ jq
 dirmngr
 pinentry-gnome3
 gcc
+gcc-c++
 automake
+make
 bzip2
 libbz2-devel
-xz xz-devel
+xz
+xz-devel
 openssl-devel
+libopenssl-devel
+libyaml-devel
 ncurses-devel
 readline-devel
 zlib-devel
 tk-devel
 libffi-devel
-sqlite3-devel make
+gdbm-devel
+sqlite3-devel
+make
 po4a
 sqlitebrowser
 gh
@@ -37,3 +45,7 @@ ffmpeg
 docker
 docker-compose
 docker-compose-switch
+xvfb-run
+NetworkManager-openvpn-gnome
+libxslt-devel
+rust
