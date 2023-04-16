@@ -49,3 +49,4 @@ xvfb-run
 NetworkManager-openvpn-gnome
 libxslt-devel
 rust
+ninja
