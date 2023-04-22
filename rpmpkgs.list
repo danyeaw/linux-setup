@@ -50,3 +50,4 @@ NetworkManager-openvpn-gnome
 libxslt-devel
 rust
 ninja
+hplip
