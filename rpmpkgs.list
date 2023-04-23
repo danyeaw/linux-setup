@@ -52,3 +52,4 @@ rust
 ninja
 hplip
 usbutils
+cmake
