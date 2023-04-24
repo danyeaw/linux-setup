@@ -53,3 +53,4 @@ ninja
 hplip
 usbutils
 cmake
+unifdef
