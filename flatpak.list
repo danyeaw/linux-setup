@@ -5,10 +5,8 @@ org.gaphor.Gaphor
 org.gnome.Chess
 org.gnome.Evince
 org.gnome.TextEditor
-org.gnome.Evolution
 org.gnome.eog
 org.libreoffice.LibreOffice
-org.remmina.Remmina
 nz.mega.MEGAsync
 org.gimp.GIMP
 org.gnome.Totem
@@ -17,3 +15,12 @@ org.zoom.Zoom
 org.gnome.design.AppIconPreview
 org.gnome.design.SymbolicPreview
 ar.xjuan.Cambalache
+org.mozilla.firefox
+org.sqlitebrowser.sqlitebrowser
+com.raggesilver.BlackBo
+org.gnome.gitlab.YaLTeR.VideoTrimmerx
+org.inkscape.Inkscape
+io.github.flattool.Warehouse
+org.gnome.Sdk.Docs//45
+org.gnome.SimpleScan
+org.gnome.Calendar
